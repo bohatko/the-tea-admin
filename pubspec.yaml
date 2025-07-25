@@ -23,9 +23,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-    compiler: canvaskit
   flutter_localizations:
-  
     sdk: flutter
   flutter_web_plugins:
     sdk: flutter
@@ -148,7 +146,6 @@ flutter:
     - assets/rive_animations/
     - assets/pdfs/
     - assets/jsons/
-
     - assets/environment_values/
 
 
@@ -177,4 +174,3 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
-
